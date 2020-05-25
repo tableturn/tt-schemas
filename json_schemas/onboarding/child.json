@@ -1,4 +1,5 @@
 {
+  "$id": "https://tableturn.github.io/tt-schemas/json_schemas/onboarding/child.json",
   "title": "A registration form",
   "description": "A simple form example.",
   "type": "object",
