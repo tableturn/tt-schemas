@@ -1,0 +1,15 @@
+{
+  "title": "A registration form",
+  "description": "A simple form example.",
+  "type": "object",
+  "required": [
+    "firstName"
+  ],
+  "definitions": {
+    "firstName": {
+      "type": "string",
+      "title": "First name",
+      "default": "Chuck"
+    }
+  }
+}
