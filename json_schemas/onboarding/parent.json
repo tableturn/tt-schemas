@@ -7,7 +7,7 @@
   ],
   "properties": {
     "firstName": {
-      "$ref": "https://tableturn.github.io/tt-schemas/json_schemas/onboarding/child.json#/definitions/firstName"
+      "$ref": "https://api.jsonbin.io/b/5ecbf131bbaf1f258946e214#/definitions/firstName"
       }
     }
   }
