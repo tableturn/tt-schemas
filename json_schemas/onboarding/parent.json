@@ -1,0 +1,14 @@
+{
+  "title": "Someone's parent",
+  "description": "A simple form example.",
+  "type": "object",
+  "required": [
+    "firstName"
+  ],
+  "properties": {
+    "firstName": {
+      "$ref": "https://tableturn.github.io/tt-schemas/json_schemas/onboarding/child.json#/definitions/firstName"
+      }
+    }
+  }
+}
