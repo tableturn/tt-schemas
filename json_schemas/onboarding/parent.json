@@ -8,7 +8,6 @@
   "properties": {
     "firstName": {
       "$ref": "https://api.jsonbin.io/b/5ecbf131bbaf1f258946e214#/definitions/firstName"
-      }
     }
   }
 }
