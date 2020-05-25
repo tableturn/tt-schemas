@@ -6,8 +6,6 @@
     "firstName"
   ],
   "properties": {
-    "firstName": {
-      {"$ref": "https://https://tableturn.github.io/tt-schemas/json_schemas/onboarding/child.json" }
-    }
+    "firstName": {"$ref": "https://https://tableturn.github.io/tt-schemas/json_schemas/onboarding/child.json" }
   }
 }
